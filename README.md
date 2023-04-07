@@ -24,6 +24,10 @@ Over the course of the semester we have been learning about different machine le
 The dataset I will be using is from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php) and is titled [Appliances energy prediction Data Set](https://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction).<br/><br/>
 Source: Luis Candanedo, luismiguel.candanedoibarra '@' umons.ac.be, University of Mons (UMONS).
 
+### Initial Proposal
+
+- [Initial Project Proposal](https://github.com/parksjr5/Energy_Forecasting/blob/main/Parks_Proposal.pdf)
+
 ## Installation
 
 ### Clone the repository to your local files
