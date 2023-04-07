@@ -1,4 +1,4 @@
-# Energy_Forecasting
+# Appliance and Light Energy Forecasting
 This project is for CMSE 492: Applied Machine Learning
 
 # Table of Contents
