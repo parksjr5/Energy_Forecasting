@@ -3,10 +3,10 @@ This project is for CMSE 492: Applied Machine Learning
 
 # Table of Contents
 
-[Project Description](#project-description)
-[Installation](#installation)
-[Running the project](#running-the-project)
-[References](#references)
+- [Project Description](#project-description)
+- [Installation](#installation)
+- [Running the project](#running-the-project)
+- [References](#references)
 
 ## Project Description
 
@@ -21,7 +21,7 @@ Over the course of the semester we have been learning about different machine le
 
 ### Dataset
 
-The dataset I will be using is from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php) and is titled [Appliances energy prediction Data Set](https://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction).<br/>
+The dataset I will be using is from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php) and is titled [Appliances energy prediction Data Set](https://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction).<br/><br/>
 Source: Luis Candanedo, luismiguel.candanedoibarra '@' umons.ac.be, University of Mons (UMONS).
 
 ## Installation
