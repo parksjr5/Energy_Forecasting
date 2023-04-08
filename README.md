@@ -50,11 +50,17 @@ In order for this command to work, you need pip installed on your machine. If yo
 
 ### Code
 
-list files and any functin folders here
+- `timeseries.ipynb`: jupyter notebook that imports the *Appliances energy prediction Data Set* and runs timeseries analysis. Comments are included in the notebook for users to understand each step in the model from beginning to end.
 
 ### Running the code
 
-clone repo, open notebook, etc.
+1. Clone the repository locally: `git clone https://github.com/parksjr5/Energy_Forecasting`
+
+2. Move into the Energy_Forecasting folder: `cd Energy_Forecasting`
+
+3. While in the Energy_Forecasting folder, open jupyter notebook locally from your terminal.
+
+4. Open the `timeseries.ipynb` and follow along with the steps in the notebook.
 
 ## References
 - [UCI Machine Learning Repository: Appliances energy prediction Data Set](https://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction)
