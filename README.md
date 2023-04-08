@@ -22,7 +22,9 @@ Over the course of the semester we have been learning about different machine le
 ### Dataset
 
 The dataset I will be using is from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php) and is titled [Appliances energy prediction Data Set](https://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction).<br/><br/>
-Source: Luis Candanedo, luismiguel.candanedoibarra '@' umons.ac.be, University of Mons (UMONS).
+Source: Luis Candanedo, luismiguel.candanedoibarra '@' umons.ac.be, University of Mons (UMONS).<br/><br/>
+There are quite a few attributes in this dataset. Here is an explanation of what each abbreviation and number represent:<br/><br/>
+![](AttributesExplained.png)
 
 ### Initial Proposal
 
