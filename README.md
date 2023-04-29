@@ -60,7 +60,7 @@ In order for this command to work, you need pip installed on your machine. If yo
 
 3. While in the Energy_Forecasting folder, open jupyter notebook locally from your terminal.
 
-4. Open the `timeseries.ipynb` and follow along with the steps in the notebook.
+4. Open the `timeseries_new.ipynb` and follow along with the steps in the notebook.
 
 ## References
 - [UCI Machine Learning Repository: Appliances energy prediction Data Set](https://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction)
